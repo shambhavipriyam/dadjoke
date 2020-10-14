@@ -27,7 +27,7 @@ A stick.
 
 ## Suggestions and Changes 
 
-Please report any issues [here](https://github.com/shambhavipriaym/dadjoke/issues), and I will try and solve them. Pull requests are welcome!
+Please report any issues [here](https://github.com/shambhavipriyam/dadjoke/issues), and I will try and solve them. Pull requests are welcome!
 If you have more jokes you want to add, awesome!
 
 Enjoy!
