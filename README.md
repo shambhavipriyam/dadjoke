@@ -1,6 +1,9 @@
 # dadjoke
 Read dad jokes while you code in R
 
+[![CRAN version](http://www.r-pkg.org/badges/version/dadjoke)](https://CRAN.R-project.org/package=dadjoke)
+[![CRAN RStudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/dadjoke)](http://cran.rstudio.com/web/packages/dadjoke/index.html)
+
 ## Installation
 You can install `dadjoke` from github with:
 ````
