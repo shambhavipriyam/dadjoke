@@ -24,6 +24,10 @@ A stick.
  
 ````
 
+## CRAN
+
+https://CRAN.R-project.org/package=dadjoke
+
 
 ## Suggestions and Changes 
 
