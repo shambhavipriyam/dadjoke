@@ -8,6 +8,11 @@ You can install `dadjoke` from github with:
 devtools::install_github("shambhavipriyam/dadjoke", force = TRUE)
 ````
 
+You can install `dadjoke` from CRAN with: 
+````
+install.packages("dadjoke")
+````
+
 To load the package:
 ````
 library(dadjoke)
