@@ -17,12 +17,11 @@ library(dadjoke)
 ````
 library(dadjoke)
 
-dadjoke()
-#> 
-#> What's brown and sticky?
-#> 
-#> A stick.
-#> 
+> dadjoke() 
+
+What's brown and sticky? 
+A stick.
+ 
 ````
 
 
