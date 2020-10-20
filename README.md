@@ -32,9 +32,11 @@ A stick.
  
 ````
 
-## CRAN
+## STATA
 
-https://CRAN.R-project.org/package=dadjoke
+A version of this package is also available for [STATA](https://ideas.repec.org/c/boc/bocode/s458846.html).
+
+To install the package on STATA type `ssc install dadjoke` in the command line. 
 
 
 ## Suggestions and Changes 
